@@ -17,7 +17,7 @@ OLDADD="bdc.-.erp.delivery"
 NEWADD="bdc.database.delivery"
 
 
-# bash-script-notes
+====scripts example====
 #!/bin/bash
 
 NODES="/tmp/nodes"
