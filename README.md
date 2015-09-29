@@ -11,11 +11,10 @@ amk:asiatjb2: mlist-crit=sga.it.infra\@gategate.com,bdc.-.database.and.web.deliv
 amk:asiatjb3.sang.gategate.com: mlist-crit=sga.it.infra\@gategate.com,bdc.-.database.and.web.delivery\@gategate.com,sga.it.dc.opn\@gategate.com mlist-maj=sga.it.infra\@gategate.com,bdc.-.database.and.web.delivery\@gategate.com mlist-min=sga.it.infra\@gategate.com
 amk:asiatjb3: mlist-crit=sga.it.infra\@gategate.com,bdc.-.database.and.web.delivery\@gategate.com,sga.it.dc.opn\@gategate.com mlist-maj=sga.it.infra\@gategate.com,bdc.-.database.and.web.delivery\@gategate.com mlist-min=sga.it.infra\@gategate.com
 
--------------------------------------------------------------------------------------------------------------------------
+
 You are given a list of nodes (/tmp/nodes), about 150 units, where u need to update the mail address for these nodes only
 OLDADD="bdc.-.erp.delivery"
 NEWADD="bdc.database.delivery"
--------------------------------------------------------------------------------------------------------------------------
 
 
 # bash-script-notes
